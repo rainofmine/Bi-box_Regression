@@ -1,6 +1,6 @@
 # Bi-box_Regression
 
-Pytorch implementation of Bi-box Regression as described in [Bi-box Regression for Pedestrian Detection and Occlusion Estimation](https://cse.buffalo.edu/~jsyuan/papers/2018/Bi-box Regression for Pedestrian Detection.pdf). 
+Pytorch implementation of Bi-box Regression as described in [Bi-box Regression for Pedestrian Detection and Occlusion Estimation](https://cse.buffalo.edu/~jsyuan/papers/2018/Bi-box%20Regression%20for%20Pedestrian%20Detection.pdf). 
 
 ![img1](https://github.com/rainofmine/Bi-box_Regression/blob/master/img/1.png)
 
@@ -84,4 +84,4 @@ python train.py --csv_train <$path/train.txt> --csv_val <$path/val.txt> --csv_cl
 ## Reference
 
 - [Focal Loss for Dense Object Detection](https://arxiv.org/abs/1708.02002)
-- [Bi-box Regression for Pedestrian Detection and Occlusion Estimation](https://cse.buffalo.edu/~jsyuan/papers/2018/Bi-box Regression for Pedestrian Detection.pdf)
+- [Bi-box Regression for Pedestrian Detection and Occlusion Estimation](https://cse.buffalo.edu/~jsyuan/papers/2018/Bi-box%20Regression%20for%20Pedestrian%20Detection.pdf)
