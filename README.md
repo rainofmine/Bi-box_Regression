@@ -1,6 +1,6 @@
 # Bi-box_Regression
 
-Pytorch implementation of Bi-box Regression as described in [Bi-box Regression for Pedestrian Detection and Occlusion Estimation](https://cse.buffalo.edu/~jsyuan/papers/2018/Bi-box%20Regression%20for%20Pedestrian%20Detection.pdf). 
+Pytorch implementation of Bi-box Regression as described in [Bi-box Regression for Pedestrian Detection and Occlusion Estimation (ECCV2018)](https://cse.buffalo.edu/~jsyuan/papers/2018/Bi-box%20Regression%20for%20Pedestrian%20Detection.pdf). 
 
 ![img1](https://github.com/rainofmine/Bi-box_Regression/blob/master/img/1.png)
 
